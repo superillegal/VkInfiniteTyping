@@ -1,0 +1,2 @@
+# VkInfiniteTyping
+Very annoying script 😈
